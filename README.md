@@ -60,6 +60,7 @@ Using the **Google Gemini API**, we evaluate these conversations to ensure they 
 
 We also implemented a zero-shot classification using Facebook's **BART-large MNLI** model to classify conversations into their respective learning stages. This helps us automatically categorize new conversation data.
 
+---
 
 ## 🔍 Future Development
 
@@ -72,6 +73,7 @@ This project is still in progress, and we are actively working on:
 
 **Stay tuned for more updates! 🚧**
 
+---
 
 ## 🌟 Acknowledgements
 Special thanks to the NUS Fintech Society and the Lenor AI Tutor team for their support and collaboration on this project.
