@@ -1,0 +1,439 @@
+[
+    {
+        "actual conversation": "AI tutor: So, what's your typical school day like? What subjects do you study? Student: I have a pretty packed schedule. I take math, science, English, history, and a foreign language. AI tutor: That's a lot! Are there any subjects that you're particularly interested in or struggling with?",
+        "actual stage": "Assessing the Student's School Curriculum",
+        "predicted stage": "Assessing the Student's School Curriculum",
+        "stages and scores": {
+            "Assessing the Student's School Curriculum": 0.21547994017601013,
+            "Building Rapport with Students": 0.15493519604206085,
+            "Repeat for Next Topic According to Study Plan": 0.10480666905641556,
+            "Updating Pedagogy According to Conversations": 0.09179602563381195,
+            "Explaining Concepts and Providing Examples": 0.08218876272439957,
+            "Beginning Lectures Following the Study Plan": 0.07438235729932785,
+            "Designing a Personalised Study Plan": 0.06430356949567795,
+            "Quizzing Students for Current Knowledge": 0.050334516912698746,
+            "Providing Images, Diagrams, and Online Resources": 0.048312958329916,
+            "Evaluating the Student's Learning Style": 0.047429170459508896,
+            "Ensuring Students Can Ask Questions Anytime": 0.037787064909935,
+            "Quizzing Students with Past Exam Questions": 0.028243672102689743
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, how do you usually like to learn new financial concepts? Do you prefer reading, watching videos, or maybe working on practical exercises? Student: Honestly, I'm a visual learner. I find it easier to understand when I can see charts and graphs. But I also like to take notes and review them later. AI tutor: That's great! Visual aids can be really helpful. We can definitely incorporate more graphics and diagrams into our lessons. And taking notes is a great way to reinforce your understanding. Do you have a preferred way of organizing your notes, or do you like to use digital tools? Student: I usually use a combination of both. I take notes by hand, but then I also scan them and save them digitally. It helps me to review them more easily.",
+        "actual stage": "Evaluating the Student's Learning Style",
+        "predicted stage": "Evaluating the Student's Learning Style",
+        "stages and scores": {
+            "Evaluating the Student's Learning Style": 0.20324118435382843,
+            "Repeat for Next Topic According to Study Plan": 0.12709243595600128,
+            "Building Rapport with Students": 0.10419337451457977,
+            "Providing Images, Diagrams, and Online Resources": 0.08927801251411438,
+            "Designing a Personalised Study Plan": 0.07372833788394928,
+            "Explaining Concepts and Providing Examples": 0.0698690414428711,
+            "Quizzing Students for Current Knowledge": 0.06616131216287613,
+            "Updating Pedagogy According to Conversations": 0.06359181553125381,
+            "Beginning Lectures Following the Study Plan": 0.061269987374544144,
+            "Ensuring Students Can Ask Questions Anytime": 0.04871365427970886,
+            "Assessing the Student's School Curriculum": 0.046758297830820084,
+            "Quizzing Students with Past Exam Questions": 0.0461026169359684
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, what are your goals for this study plan? What do you want to achieve by the end of the semester? Student: Honestly, I'm struggling to keep up with the coursework and I want to make sure I pass all my exams. I'm also hoping to get a good grade in my accounting class. AI tutor: Okay, got it! So, let's prioritize your accounting class then. What specific areas of accounting are you struggling with or need more practice on? Student: I'm having trouble with financial statements and ratio analysis. I just don't seem to understand how to apply the concepts to real-world scenarios.",
+        "actual stage": "Designing a Personalised Study Plan",
+        "predicted stage": "Repeat for Next Topic According to Study Plan",
+        "stages and scores": {
+            "Repeat for Next Topic According to Study Plan": 0.14131876826286316,
+            "Beginning Lectures Following the Study Plan": 0.1295032501220703,
+            "Designing a Personalised Study Plan": 0.11723091453313828,
+            "Building Rapport with Students": 0.11072332412004471,
+            "Assessing the Student's School Curriculum": 0.10667748004198074,
+            "Quizzing Students for Current Knowledge": 0.07376319915056229,
+            "Quizzing Students with Past Exam Questions": 0.06522449105978012,
+            "Updating Pedagogy According to Conversations": 0.06064286455512047,
+            "Explaining Concepts and Providing Examples": 0.05167015641927719,
+            "Ensuring Students Can Ask Questions Anytime": 0.04937232658267021,
+            "Evaluating the Student's Learning Style": 0.04759899899363518,
+            "Providing Images, Diagrams, and Online Resources": 0.04627424478530884
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, how do you usually like to learn new financial concepts? Do you prefer reading, watching videos, or maybe working on practical exercises? Student: Honestly, I'm a visual learner. I find it easier to understand when I can see charts and graphs. But I also like to take notes and review them later. AI tutor: That's great! Visual aids can be really helpful. We can definitely incorporate more graphics and diagrams into our lessons. And taking notes is a great way to reinforce your understanding. Do you have a preferred way of organizing your notes, or do you like to use digital tools? Student: I usually use a combination of both. I take notes by hand, but then I also scan them and save them digitally. It helps me to review them more easily.",
+        "actual stage": "Evaluating the Student's Learning Style",
+        "predicted stage": "Evaluating the Student's Learning Style",
+        "stages and scores": {
+            "Evaluating the Student's Learning Style": 0.20324118435382843,
+            "Repeat for Next Topic According to Study Plan": 0.12709243595600128,
+            "Building Rapport with Students": 0.10419337451457977,
+            "Providing Images, Diagrams, and Online Resources": 0.08927801251411438,
+            "Designing a Personalised Study Plan": 0.07372833788394928,
+            "Explaining Concepts and Providing Examples": 0.0698690414428711,
+            "Quizzing Students for Current Knowledge": 0.06616131216287613,
+            "Updating Pedagogy According to Conversations": 0.06359181553125381,
+            "Beginning Lectures Following the Study Plan": 0.061269987374544144,
+            "Ensuring Students Can Ask Questions Anytime": 0.04871365427970886,
+            "Assessing the Student's School Curriculum": 0.046758297830820084,
+            "Quizzing Students with Past Exam Questions": 0.0461026169359684
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, let's talk about depreciation. It's a way for companies to account for the decrease in value of their assets over time. For example, if a company buys a new machine for $10,000, it might depreciate by $2,000 in the first year, $1,500 in the second year, and so on. Student: Ah, I get it. So it's like how my old phone loses value the more I use it? AI tutor: Exactly! It's a way to reflect the decrease in value of an asset over time. And it's not just limited to physical assets like machines or buildings, but also intangible assets like patents or copyrights. Student: That makes sense. So, how does it affect the company's financial statements?",
+        "actual stage": "Explaining Concepts and Providing Examples",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.15539653599262238,
+            "Explaining Concepts and Providing Examples": 0.12664633989334106,
+            "Updating Pedagogy According to Conversations": 0.12178836762905121,
+            "Repeat for Next Topic According to Study Plan": 0.11251872777938843,
+            "Quizzing Students for Current Knowledge": 0.10034562647342682,
+            "Ensuring Students Can Ask Questions Anytime": 0.08245288580656052,
+            "Providing Images, Diagrams, and Online Resources": 0.06833750009536743,
+            "Beginning Lectures Following the Study Plan": 0.05768761783838272,
+            "Evaluating the Student's Learning Style": 0.0507633201777935,
+            "Designing a Personalised Study Plan": 0.04577919840812683,
+            "Quizzing Students with Past Exam Questions": 0.04338439926505089,
+            "Assessing the Student's School Curriculum": 0.034899450838565826
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, what are your goals for this study plan? What do you want to achieve by the end of the semester? Student: Honestly, I'm struggling to keep up with the coursework and I want to make sure I pass all my exams. I'm also hoping to get a good grade in my accounting class. AI tutor: Okay, got it! So, let's prioritize your accounting class then. What specific areas of accounting are you struggling with or need more practice on? Student: I'm having trouble with financial statements and ratio analysis. I just don't seem to understand how to apply the concepts to real-world scenarios.",
+        "actual stage": "Designing a Personalised Study Plan",
+        "predicted stage": "Repeat for Next Topic According to Study Plan",
+        "stages and scores": {
+            "Repeat for Next Topic According to Study Plan": 0.14131876826286316,
+            "Beginning Lectures Following the Study Plan": 0.1295032501220703,
+            "Designing a Personalised Study Plan": 0.11723091453313828,
+            "Building Rapport with Students": 0.11072332412004471,
+            "Assessing the Student's School Curriculum": 0.10667748004198074,
+            "Quizzing Students for Current Knowledge": 0.07376319915056229,
+            "Quizzing Students with Past Exam Questions": 0.06522449105978012,
+            "Updating Pedagogy According to Conversations": 0.06064286455512047,
+            "Explaining Concepts and Providing Examples": 0.05167015641927719,
+            "Ensuring Students Can Ask Questions Anytime": 0.04937232658267021,
+            "Evaluating the Student's Learning Style": 0.04759899899363518,
+            "Providing Images, Diagrams, and Online Resources": 0.04627424478530884
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, what are your goals for this study plan? What do you want to achieve by the end of the semester? Student: Honestly, I'm struggling to keep up with the coursework and I want to make sure I pass all my exams. I'm also hoping to get a good grade in my accounting class. AI tutor: Okay, got it! So, let's prioritize your accounting class then. What specific areas of accounting are you struggling with or need more practice on? Student: I'm having trouble with financial statements and ratio analysis. I just don't seem to understand how to apply the concepts to real-world scenarios.",
+        "actual stage": "Designing a Personalised Study Plan",
+        "predicted stage": "Repeat for Next Topic According to Study Plan",
+        "stages and scores": {
+            "Repeat for Next Topic According to Study Plan": 0.14131876826286316,
+            "Beginning Lectures Following the Study Plan": 0.1295032501220703,
+            "Designing a Personalised Study Plan": 0.11723091453313828,
+            "Building Rapport with Students": 0.11072332412004471,
+            "Assessing the Student's School Curriculum": 0.10667748004198074,
+            "Quizzing Students for Current Knowledge": 0.07376319915056229,
+            "Quizzing Students with Past Exam Questions": 0.06522449105978012,
+            "Updating Pedagogy According to Conversations": 0.06064286455512047,
+            "Explaining Concepts and Providing Examples": 0.05167015641927719,
+            "Ensuring Students Can Ask Questions Anytime": 0.04937232658267021,
+            "Evaluating the Student's Learning Style": 0.04759899899363518,
+            "Providing Images, Diagrams, and Online Resources": 0.04627424478530884
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, let's talk about depreciation. It's a way for companies to account for the decrease in value of their assets over time. For example, if a company buys a new machine for $10,000, it might depreciate by $2,000 in the first year, $1,500 in the second year, and so on. Student: Ah, I get it. So it's like how my old phone loses value the more I use it? AI tutor: Exactly! It's a way to reflect the decrease in value of an asset over time. And it's not just limited to physical assets like machines or buildings, but also intangible assets like patents or copyrights. Student: That makes sense. So, how does it affect the company's financial statements?",
+        "actual stage": "Explaining Concepts and Providing Examples",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.15539653599262238,
+            "Explaining Concepts and Providing Examples": 0.12664633989334106,
+            "Updating Pedagogy According to Conversations": 0.12178836762905121,
+            "Repeat for Next Topic According to Study Plan": 0.11251872777938843,
+            "Quizzing Students for Current Knowledge": 0.10034562647342682,
+            "Ensuring Students Can Ask Questions Anytime": 0.08245288580656052,
+            "Providing Images, Diagrams, and Online Resources": 0.06833750009536743,
+            "Beginning Lectures Following the Study Plan": 0.05768761783838272,
+            "Evaluating the Student's Learning Style": 0.0507633201777935,
+            "Designing a Personalised Study Plan": 0.04577919840812683,
+            "Quizzing Students with Past Exam Questions": 0.04338439926505089,
+            "Assessing the Student's School Curriculum": 0.034899450838565826
+        }
+    },
+    {
+        "actual conversation": "AI tutor: Hey there! So, how's your understanding of the concepts we covered in the last lecture? Are you feeling confident about moving forward? Student: Yeah, I think I got it! We went over the time value of money, right? And how to calculate present and future values. AI tutor: That's correct! You're doing great. What do you think is the most important thing to remember about the time value of money? Student: Hmm, I'm not sure... maybe that it's important to consider the interest rate and the time period when calculating present and future values?",
+        "actual stage": "Beginning Lectures Following the Study Plan",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.16837365925312042,
+            "Assessing the Student's School Curriculum": 0.12874242663383484,
+            "Quizzing Students for Current Knowledge": 0.11454247683286667,
+            "Repeat for Next Topic According to Study Plan": 0.10583644360303879,
+            "Explaining Concepts and Providing Examples": 0.08764483034610748,
+            "Beginning Lectures Following the Study Plan": 0.06848392635583878,
+            "Providing Images, Diagrams, and Online Resources": 0.06430139392614365,
+            "Updating Pedagogy According to Conversations": 0.06359832733869553,
+            "Quizzing Students with Past Exam Questions": 0.05623440071940422,
+            "Designing a Personalised Study Plan": 0.055515583604574203,
+            "Evaluating the Student's Learning Style": 0.04737870767712593,
+            "Ensuring Students Can Ask Questions Anytime": 0.039347875863313675
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, let's talk about depreciation. It's a way for companies to account for the decrease in value of their assets over time. For example, if a company buys a new machine for $10,000, it might depreciate by $2,000 in the first year, $1,500 in the second year, and so on. Student: Ah, I get it. So it's like how my old phone loses value the more I use it? AI tutor: Exactly! It's a way to reflect the decrease in value of an asset over time. And it's not just limited to physical assets like machines or buildings, but also intangible assets like patents or copyrights. Student: That makes sense. So, how does it affect the company's financial statements?",
+        "actual stage": "Explaining Concepts and Providing Examples",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.15539653599262238,
+            "Explaining Concepts and Providing Examples": 0.12664633989334106,
+            "Updating Pedagogy According to Conversations": 0.12178836762905121,
+            "Repeat for Next Topic According to Study Plan": 0.11251872777938843,
+            "Quizzing Students for Current Knowledge": 0.10034562647342682,
+            "Ensuring Students Can Ask Questions Anytime": 0.08245288580656052,
+            "Providing Images, Diagrams, and Online Resources": 0.06833750009536743,
+            "Beginning Lectures Following the Study Plan": 0.05768761783838272,
+            "Evaluating the Student's Learning Style": 0.0507633201777935,
+            "Designing a Personalised Study Plan": 0.04577919840812683,
+            "Quizzing Students with Past Exam Questions": 0.04338439926505089,
+            "Assessing the Student's School Curriculum": 0.034899450838565826
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, what's been going on in the world of finance lately? Any big news or trends that caught your attention? Student: Yeah, I've been following the developments in the cryptocurrency space. It's been wild to see the fluctuations in value. AI tutor: That's right! The crypto market can be quite volatile. Have you heard about the recent SEC regulations on token offerings? Student: No, I haven't. Can you tell me more about it?",
+        "actual stage": "Quizzing Students for Current Knowledge",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.18651558458805084,
+            "Explaining Concepts and Providing Examples": 0.11325772106647491,
+            "Quizzing Students for Current Knowledge": 0.1031479611992836,
+            "Updating Pedagogy According to Conversations": 0.09970879554748535,
+            "Beginning Lectures Following the Study Plan": 0.08616242557764053,
+            "Ensuring Students Can Ask Questions Anytime": 0.08177991211414337,
+            "Designing a Personalised Study Plan": 0.080131396651268,
+            "Providing Images, Diagrams, and Online Resources": 0.07673577219247818,
+            "Repeat for Next Topic According to Study Plan": 0.07619936764240265,
+            "Evaluating the Student's Learning Style": 0.04587799310684204,
+            "Quizzing Students with Past Exam Questions": 0.030006902292370796,
+            "Assessing the Student's School Curriculum": 0.02047612890601158
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, how do you usually like to learn new financial concepts? Do you prefer reading, watching videos, or maybe working on practical exercises? Student: Honestly, I'm a visual learner. I find it easier to understand when I can see charts and graphs. But I also like to take notes and review them later. AI tutor: That's great! Visual aids can be really helpful. We can definitely incorporate more graphics and diagrams into our lessons. And taking notes is a great way to reinforce your understanding. Do you have a preferred way of organizing your notes, or do you like to use digital tools? Student: I usually use a combination of both. I take notes by hand, but then I also scan them and save them digitally. It helps me to review them more easily.",
+        "actual stage": "Evaluating the Student's Learning Style",
+        "predicted stage": "Evaluating the Student's Learning Style",
+        "stages and scores": {
+            "Evaluating the Student's Learning Style": 0.20324118435382843,
+            "Repeat for Next Topic According to Study Plan": 0.12709243595600128,
+            "Building Rapport with Students": 0.10419337451457977,
+            "Providing Images, Diagrams, and Online Resources": 0.08927801251411438,
+            "Designing a Personalised Study Plan": 0.07372833788394928,
+            "Explaining Concepts and Providing Examples": 0.0698690414428711,
+            "Quizzing Students for Current Knowledge": 0.06616131216287613,
+            "Updating Pedagogy According to Conversations": 0.06359181553125381,
+            "Beginning Lectures Following the Study Plan": 0.061269987374544144,
+            "Ensuring Students Can Ask Questions Anytime": 0.04871365427970886,
+            "Assessing the Student's School Curriculum": 0.046758297830820084,
+            "Quizzing Students with Past Exam Questions": 0.0461026169359684
+        }
+    },
+    {
+        "actual conversation": "####.             aStudent the same as the.\n            the as the and the conversation and the line.\n            the as the name of the same.\n            and the same as the and the name of the and the as the.\n            as the.\n            the.\n            the as the first the first.\n            the.\n            the.\n            the as the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n           \n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n           \n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n            the.\n           ",
+        "actual stage": "Updating Pedagogy According to Conversations",
+        "predicted stage": "Evaluating the Student's Learning Style",
+        "stages and scores": {
+            "Evaluating the Student's Learning Style": 0.1526300609111786,
+            "Building Rapport with Students": 0.14510253071784973,
+            "Updating Pedagogy According to Conversations": 0.11585023254156113,
+            "Explaining Concepts and Providing Examples": 0.09869304299354553,
+            "Assessing the Student's School Curriculum": 0.07914450764656067,
+            "Quizzing Students for Current Knowledge": 0.0758725106716156,
+            "Designing a Personalised Study Plan": 0.07478419691324234,
+            "Quizzing Students with Past Exam Questions": 0.0633339136838913,
+            "Ensuring Students Can Ask Questions Anytime": 0.054941922426223755,
+            "Beginning Lectures Following the Study Plan": 0.053910668939352036,
+            "Repeat for Next Topic According to Study Plan": 0.04318404570221901,
+            "Providing Images, Diagrams, and Online Resources": 0.042552415281534195
+        }
+    },
+    {
+        "actual conversation": "AI Tutor: Hey, how's your day going so far? Student: It's going alright, just trying to get my head around this finance stuff. I'm really struggling to understand the concepts. AI Tutor: Ah, I totally get it! Finance can be tough to wrap your head around at first. What specifically is giving you trouble? Is it the formulas, the concepts, or something else? Student: Yeah, I think it's just the formulas. I feel like I'm not really understanding why we're using them or how they apply to real-life situations.",
+        "actual stage": "Building Rapport with Students",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.1875268667936325,
+            "Quizzing Students for Current Knowledge": 0.10530560463666916,
+            "Updating Pedagogy According to Conversations": 0.09097835421562195,
+            "Repeat for Next Topic According to Study Plan": 0.09041827917098999,
+            "Beginning Lectures Following the Study Plan": 0.08370820432901382,
+            "Providing Images, Diagrams, and Online Resources": 0.07614655047655106,
+            "Explaining Concepts and Providing Examples": 0.06564822793006897,
+            "Assessing the Student's School Curriculum": 0.06552599370479584,
+            "Designing a Personalised Study Plan": 0.06397587805986404,
+            "Evaluating the Student's Learning Style": 0.05823477357625961,
+            "Ensuring Students Can Ask Questions Anytime": 0.05804571136832237,
+            "Quizzing Students with Past Exam Questions": 0.05448565259575844
+        }
+    },
+    {
+        "actual conversation": "AI Tutor: Hey, how's your day going so far? Student: It's going alright, just trying to get my head around this finance stuff. I'm really struggling to understand the concepts. AI Tutor: Ah, I totally get it! Finance can be tough to wrap your head around at first. What specifically is giving you trouble? Is it the formulas, the concepts, or something else? Student: Yeah, I think it's just the formulas. I feel like I'm not really understanding why we're using them or how they apply to real-life situations.",
+        "actual stage": "Building Rapport with Students",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.1875268667936325,
+            "Quizzing Students for Current Knowledge": 0.10530560463666916,
+            "Updating Pedagogy According to Conversations": 0.09097835421562195,
+            "Repeat for Next Topic According to Study Plan": 0.09041827917098999,
+            "Beginning Lectures Following the Study Plan": 0.08370820432901382,
+            "Providing Images, Diagrams, and Online Resources": 0.07614655047655106,
+            "Explaining Concepts and Providing Examples": 0.06564822793006897,
+            "Assessing the Student's School Curriculum": 0.06552599370479584,
+            "Designing a Personalised Study Plan": 0.06397587805986404,
+            "Evaluating the Student's Learning Style": 0.05823477357625961,
+            "Ensuring Students Can Ask Questions Anytime": 0.05804571136832237,
+            "Quizzing Students with Past Exam Questions": 0.05448565259575844
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, let's talk about depreciation. It's a way for companies to account for the decrease in value of their assets over time. For example, if a company buys a new machine for $10,000, it might depreciate by $2,000 in the first year, $1,500 in the second year, and so on. Student: Ah, I get it. So it's like how my old phone loses value the more I use it? AI tutor: Exactly! It's a way to reflect the decrease in value of an asset over time. And it's not just limited to physical assets like machines or buildings, but also intangible assets like patents or copyrights. Student: That makes sense. So, how does it affect the company's financial statements?",
+        "actual stage": "Explaining Concepts and Providing Examples",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.15539653599262238,
+            "Explaining Concepts and Providing Examples": 0.12664633989334106,
+            "Updating Pedagogy According to Conversations": 0.12178836762905121,
+            "Repeat for Next Topic According to Study Plan": 0.11251872777938843,
+            "Quizzing Students for Current Knowledge": 0.10034562647342682,
+            "Ensuring Students Can Ask Questions Anytime": 0.08245288580656052,
+            "Providing Images, Diagrams, and Online Resources": 0.06833750009536743,
+            "Beginning Lectures Following the Study Plan": 0.05768761783838272,
+            "Evaluating the Student's Learning Style": 0.0507633201777935,
+            "Designing a Personalised Study Plan": 0.04577919840812683,
+            "Quizzing Students with Past Exam Questions": 0.04338439926505089,
+            "Assessing the Student's School Curriculum": 0.034899450838565826
+        }
+    },
+    {
+        "actual conversation": "AI tutor: Alright, let's move on to the next topic! We've covered compound interest, now it's time to dive into amortization schedules. Student: Cool, I'm ready for it! What's the key thing I need to remember about amortization schedules? AI tutor: Just that they show how much of each payment goes towards interest and how much goes towards principal.",
+        "actual stage": "Repeat for Next Topic According to Study Plan",
+        "predicted stage": "Repeat for Next Topic According to Study Plan",
+        "stages and scores": {
+            "Repeat for Next Topic According to Study Plan": 0.2843687832355499,
+            "Building Rapport with Students": 0.20413625240325928,
+            "Quizzing Students for Current Knowledge": 0.08682811260223389,
+            "Explaining Concepts and Providing Examples": 0.08294832706451416,
+            "Beginning Lectures Following the Study Plan": 0.06668896228075027,
+            "Updating Pedagogy According to Conversations": 0.05431998893618584,
+            "Quizzing Students with Past Exam Questions": 0.04819728806614876,
+            "Providing Images, Diagrams, and Online Resources": 0.04047951102256775,
+            "Evaluating the Student's Learning Style": 0.0352977029979229,
+            "Assessing the Student's School Curriculum": 0.03403246030211449,
+            "Ensuring Students Can Ask Questions Anytime": 0.033715326339006424,
+            "Designing a Personalised Study Plan": 0.028987206518650055
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, let's talk about depreciation. It's a way for companies to account for the decrease in value of their assets over time. For example, if a company buys a new machine for $10,000, it might depreciate by $2,000 in the first year, $1,500 in the second year, and so on. Student: Ah, I get it. So it's like how my old phone loses value the more I use it? AI tutor: Exactly! It's a way to reflect the decrease in value of an asset over time. And it's not just limited to physical assets like machines or buildings, but also intangible assets like patents or copyrights. Student: That makes sense. So, how does it affect the company's financial statements?",
+        "actual stage": "Explaining Concepts and Providing Examples",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.15539653599262238,
+            "Explaining Concepts and Providing Examples": 0.12664633989334106,
+            "Updating Pedagogy According to Conversations": 0.12178836762905121,
+            "Repeat for Next Topic According to Study Plan": 0.11251872777938843,
+            "Quizzing Students for Current Knowledge": 0.10034562647342682,
+            "Ensuring Students Can Ask Questions Anytime": 0.08245288580656052,
+            "Providing Images, Diagrams, and Online Resources": 0.06833750009536743,
+            "Beginning Lectures Following the Study Plan": 0.05768761783838272,
+            "Evaluating the Student's Learning Style": 0.0507633201777935,
+            "Designing a Personalised Study Plan": 0.04577919840812683,
+            "Quizzing Students with Past Exam Questions": 0.04338439926505089,
+            "Assessing the Student's School Curriculum": 0.034899450838565826
+        }
+    },
+    {
+        "actual conversation": "AI tutor: Hey there! So, how's your understanding of the concepts we covered in the last lecture? Are you feeling confident about moving forward? Student: Yeah, I think I got it! We went over the time value of money, right? And how to calculate present and future values. AI tutor: That's correct! You're doing great. What do you think is the most important thing to remember about the time value of money? Student: Hmm, I'm not sure... maybe that it's important to consider the interest rate and the time period when calculating present and future values?",
+        "actual stage": "Beginning Lectures Following the Study Plan",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.16837365925312042,
+            "Assessing the Student's School Curriculum": 0.12874242663383484,
+            "Quizzing Students for Current Knowledge": 0.11454247683286667,
+            "Repeat for Next Topic According to Study Plan": 0.10583644360303879,
+            "Explaining Concepts and Providing Examples": 0.08764483034610748,
+            "Beginning Lectures Following the Study Plan": 0.06848392635583878,
+            "Providing Images, Diagrams, and Online Resources": 0.06430139392614365,
+            "Updating Pedagogy According to Conversations": 0.06359832733869553,
+            "Quizzing Students with Past Exam Questions": 0.05623440071940422,
+            "Designing a Personalised Study Plan": 0.055515583604574203,
+            "Evaluating the Student's Learning Style": 0.04737870767712593,
+            "Ensuring Students Can Ask Questions Anytime": 0.039347875863313675
+        }
+    },
+    {
+        "actual conversation": "AI Tutor: Hey, how's your day going so far? Student: It's going alright, just trying to get my head around this finance stuff. I'm really struggling to understand the concepts. AI Tutor: Ah, I totally get it! Finance can be tough to wrap your head around at first. What specifically is giving you trouble? Is it the formulas, the concepts, or something else? Student: Yeah, I think it's just the formulas. I feel like I'm not really understanding why we're using them or how they apply to real-life situations.",
+        "actual stage": "Building Rapport with Students",
+        "predicted stage": "Building Rapport with Students",
+        "stages and scores": {
+            "Building Rapport with Students": 0.1875268667936325,
+            "Quizzing Students for Current Knowledge": 0.10530560463666916,
+            "Updating Pedagogy According to Conversations": 0.09097835421562195,
+            "Repeat for Next Topic According to Study Plan": 0.09041827917098999,
+            "Beginning Lectures Following the Study Plan": 0.08370820432901382,
+            "Providing Images, Diagrams, and Online Resources": 0.07614655047655106,
+            "Explaining Concepts and Providing Examples": 0.06564822793006897,
+            "Assessing the Student's School Curriculum": 0.06552599370479584,
+            "Designing a Personalised Study Plan": 0.06397587805986404,
+            "Evaluating the Student's Learning Style": 0.05823477357625961,
+            "Ensuring Students Can Ask Questions Anytime": 0.05804571136832237,
+            "Quizzing Students with Past Exam Questions": 0.05448565259575844
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, how do you usually like to learn new financial concepts? Do you prefer reading, watching videos, or maybe working on practical exercises? Student: Honestly, I'm a visual learner. I find it easier to understand when I can see charts and graphs. But I also like to take notes and review them later. AI tutor: That's great! Visual aids can be really helpful. We can definitely incorporate more graphics and diagrams into our lessons. And taking notes is a great way to reinforce your understanding. Do you have a preferred way of organizing your notes, or do you like to use digital tools? Student: I usually use a combination of both. I take notes by hand, but then I also scan them and save them digitally. It helps me to review them more easily.",
+        "actual stage": "Evaluating the Student's Learning Style",
+        "predicted stage": "Evaluating the Student's Learning Style",
+        "stages and scores": {
+            "Evaluating the Student's Learning Style": 0.20324118435382843,
+            "Repeat for Next Topic According to Study Plan": 0.12709243595600128,
+            "Building Rapport with Students": 0.10419337451457977,
+            "Providing Images, Diagrams, and Online Resources": 0.08927801251411438,
+            "Designing a Personalised Study Plan": 0.07372833788394928,
+            "Explaining Concepts and Providing Examples": 0.0698690414428711,
+            "Quizzing Students for Current Knowledge": 0.06616131216287613,
+            "Updating Pedagogy According to Conversations": 0.06359181553125381,
+            "Beginning Lectures Following the Study Plan": 0.061269987374544144,
+            "Ensuring Students Can Ask Questions Anytime": 0.04871365427970886,
+            "Assessing the Student's School Curriculum": 0.046758297830820084,
+            "Quizzing Students with Past Exam Questions": 0.0461026169359684
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, how do you usually like to learn new financial concepts? Do you prefer reading, watching videos, or maybe working on practical exercises? Student: Honestly, I'm a visual learner. I find it easier to understand when I can see charts and graphs. But I also like to take notes and review them later. AI tutor: That's great! Visual aids can be really helpful. We can definitely incorporate more graphics and diagrams into our lessons. And taking notes is a great way to reinforce your understanding. Do you have a preferred way of organizing your notes, or do you like to use digital tools? Student: I usually use a combination of both. I take notes by hand, but then I also scan them and save them digitally. It helps me to review them more easily.",
+        "actual stage": "Evaluating the Student's Learning Style",
+        "predicted stage": "Evaluating the Student's Learning Style",
+        "stages and scores": {
+            "Evaluating the Student's Learning Style": 0.20324118435382843,
+            "Repeat for Next Topic According to Study Plan": 0.12709243595600128,
+            "Building Rapport with Students": 0.10419337451457977,
+            "Providing Images, Diagrams, and Online Resources": 0.08927801251411438,
+            "Designing a Personalised Study Plan": 0.07372833788394928,
+            "Explaining Concepts and Providing Examples": 0.0698690414428711,
+            "Quizzing Students for Current Knowledge": 0.06616131216287613,
+            "Updating Pedagogy According to Conversations": 0.06359181553125381,
+            "Beginning Lectures Following the Study Plan": 0.061269987374544144,
+            "Ensuring Students Can Ask Questions Anytime": 0.04871365427970886,
+            "Assessing the Student's School Curriculum": 0.046758297830820084,
+            "Quizzing Students with Past Exam Questions": 0.0461026169359684
+        }
+    },
+    {
+        "actual conversation": "AI tutor: So, what's your typical school day like? What subjects do you study? Student: I have a pretty packed schedule. I take math, science, English, history, and a foreign language. AI tutor: That's a lot! Are there any subjects that you're particularly interested in or struggling with?",
+        "actual stage": "Assessing the Student's School Curriculum",
+        "predicted stage": "Assessing the Student's School Curriculum",
+        "stages and scores": {
+            "Assessing the Student's School Curriculum": 0.21547994017601013,
+            "Building Rapport with Students": 0.15493519604206085,
+            "Repeat for Next Topic According to Study Plan": 0.10480666905641556,
+            "Updating Pedagogy According to Conversations": 0.09179602563381195,
+            "Explaining Concepts and Providing Examples": 0.08218876272439957,
+            "Beginning Lectures Following the Study Plan": 0.07438235729932785,
+            "Designing a Personalised Study Plan": 0.06430356949567795,
+            "Quizzing Students for Current Knowledge": 0.050334516912698746,
+            "Providing Images, Diagrams, and Online Resources": 0.048312958329916,
+            "Evaluating the Student's Learning Style": 0.047429170459508896,
+            "Ensuring Students Can Ask Questions Anytime": 0.037787064909935,
+            "Quizzing Students with Past Exam Questions": 0.028243672102689743
+        }
+    }
+]
