@@ -17,7 +17,7 @@ Check out Lenor on [LinkedIn](https://www.linkedin.com/company/lenor-eduai/posts
 In this project, the following tools and models to power our conversation generation and evaluation systems:
 
 - **LLMs for conversation generation**:  
-  We use **[Meta's LLaMA 3](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct)** model to generate AI tutor-student dialogues, helping students in various learning stages.  
+ The **[Meta's LLaMA 3](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct)** model is used to generate AI tutor-student dialogues, helping students in various learning stages.  
 
 - **Conversation evaluation using Gemini API**:  
   The **[Google Gemini API](https://ai.google.dev/gemini-api?gad_source=1&gclid=Cj0KCQjwmt24BhDPARIsAJFYKk3D-svNN6QrnSpo_HxWDwg_yg6eOq624ALTX5x0uUyEHUAtJji46doaAvEnEALw_wcB&hl=ko)** is used for evaluating the quality and accuracy of AI-generated conversations. We assess the conversations based on predefined learning objectives and key stages.
