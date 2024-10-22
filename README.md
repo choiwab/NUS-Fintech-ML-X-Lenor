@@ -22,7 +22,7 @@ In this project, the following tools and models to power our conversation genera
 - **Conversation evaluation using Gemini API**:  
   The **[Google Gemini API](https://ai.google.dev/gemini-api?gad_source=1&gclid=Cj0KCQjwmt24BhDPARIsAJFYKk3D-svNN6QrnSpo_HxWDwg_yg6eOq624ALTX5x0uUyEHUAtJji46doaAvEnEALw_wcB&hl=ko)** is used for evaluating the quality and accuracy of AI-generated conversations. We assess the conversations based on predefined learning objectives and key stages.
 
-  - **Conversation classificattion using Google Bart MNLI**:  
+- **Conversation classificattion using Google Bart MNLI**:  
   The **[Facebook BART](https://huggingface.co/facebook/bart-large-mnli)** is used to classify the conversation data into 12 different learning stages and give scores based on zero-shot classification.
 
 ---
